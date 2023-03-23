@@ -1,0 +1,173 @@
+body{
+    background-color: #F5F1ED;;
+}
+
+header{
+    padding-left: 50px;
+    font-size: 40px;
+    height: 2em;
+    background-color:#252323;
+    padding-top: 1em;
+    color: #F5F1ED;
+    font-family: 'Poppins', 'Arial Black';
+}
+
+.menu{
+    font-family: 'Poppins', 'Arial Black';
+    background-color: #70798C;
+    font-size: 20px;
+    height: 1.5em;
+    padding-top: 0.5em;
+}
+.Menu{
+    text-decoration: none;
+    color: #DAD2BC;
+    padding-left: 50px;
+}
+.Menu:hover{
+    color: #A99985;
+}
+
+.text{
+    color: #252323;
+    font-family: 'Poppins', 'Arial Black';
+    padding-top: 10px;
+    margin-left: 1%;
+}
+
+.titles{
+    font-family: 'Poppins', 'Arial Black';
+    padding-top: 20px;
+    margin-left: 1%;
+    font-size: 25px;
+}
+
+.backgroundDivs{
+    display: flex;
+}
+
+.legenda{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    width: 100%;
+}
+.nome{
+    padding: 5px;
+}
+
+.tabela{
+    font-family: 'Poppins', 'Arial Black';
+    width: 100%;
+    padding: 10px;
+    padding-left: 4%;  
+    padding-right: 4%;
+    color: #252323;
+}
+td,th{
+    padding: 5px
+}   
+
+.borda{
+    border: 1px solid #252323;
+}
+
+.linkelements{
+    color: #252323;
+    text-decoration: none;
+}
+
+.linkelements:visited{
+    color: #252323;
+    text-decoration: none;
+}
+
+/* cor dos elementos */
+
+.hidro{
+    background-color: #b0f2c2;
+}
+
+.hidro:hover{
+    background-color: #b0f2c29a;
+}
+
+.nobre{
+    background-color: #c7f6d4;
+}
+
+.nobre:hover{
+    background-color: #c7f6d49a;
+}
+
+.alcalino{
+    background-color: #ededaf;
+}
+
+.alcalino:hover{
+    background-color: #ededaf9a;
+}
+
+.terra{
+    background-color: #fcfcda;
+}
+
+.terra:hover{
+    background-color: #fcfcda9a;
+}
+
+.ametal{
+    background-color: #fdcae1;
+}
+
+.ametal:hover{
+    background-color: #fdcae19a;
+}
+
+.semimetais{
+    background-color: #ff6961;
+}
+
+.semimetais:hover{
+    background-color: #ff69619a;
+}
+
+.postran{
+    background-color:#84b6f4;
+}
+
+.postran:hover{
+    background-color: #84b6f49a;
+}
+
+.metalinterna{
+    background-color: #f3a8c2;
+}
+
+.metalinterna:hover{
+    background-color: #f3a8c29a;
+}
+
+.lantani{
+    background-color: #75f9f2;
+}
+
+.lantani:hover{
+    background-color: #75f9f29a;
+}
+
+.actinidi{
+    background-color: #a0d2f3;
+}
+
+.actinidi:hover{
+    background-color: #a0d2f3a9;
+}
+
+.sinteticos{
+    background-color: #d3bcf6;
+}
+
+.sinteticos:hover{
+    background-color: #d3bcf6a9;
+}
