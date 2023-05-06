@@ -1,4 +1,4 @@
 # quimicaaocubo 
-produção do projeto tabela.
+produção do projeto quimicaaocubo.
 
 nada de mais, aqui.
