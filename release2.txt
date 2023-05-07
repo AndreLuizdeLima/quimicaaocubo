@@ -1,5 +1,3 @@
-#urgencial 16: Img null 
-#urgencial 112: Img null
 #urgencial 31: img
 
 #Media 104 e 105: img 
