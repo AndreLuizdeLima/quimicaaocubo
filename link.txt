@@ -90,13 +90,13 @@ https://andreluizdelima.github.io/quimicaaocubo/Pages/Actinio.html
 https://andreluizdelima.github.io/quimicaaocubo/Pages/Torio.html
 https://andreluizdelima.github.io/quimicaaocubo/Pages/Protactinio.html
 https://andreluizdelima.github.io/quimicaaocubo/Pages/Uranio.html
----------------Neptúnio
+https://andreluizdelima.github.io/quimicaaocubo/Pages/Neptunio.html
 https://andreluizdelima.github.io/quimicaaocubo/Pages/Plutonio.html
 https://andreluizdelima.github.io/quimicaaocubo/Pages/Americio.html
 https://andreluizdelima.github.io/quimicaaocubo/Pages/Curio.html
 https://andreluizdelima.github.io/quimicaaocubo/Pages/Berquelio.html
 https://andreluizdelima.github.io/quimicaaocubo/Pages/Californio.html
---------------- Einstênio
+https://andreluizdelima.github.io/quimicaaocubo/Pages/Einstenio.html
 https://andreluizdelima.github.io/quimicaaocubo/Pages/Fermio.html
 https://andreluizdelima.github.io/quimicaaocubo/Pages/Mendelevio.html
 https://andreluizdelima.github.io/quimicaaocubo/Pages/Nobelio.html
