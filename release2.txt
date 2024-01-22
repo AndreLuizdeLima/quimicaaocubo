@@ -2,6 +2,8 @@ deixe aqui as proximas mudanças.
 
 Reconstrução do site "Home"
 
+novo readme
+
 Apenas uma pagina dedicada para a tabela
 
-Revisão dos Textos e imaguens
+Revisão dos Textos e imagens
