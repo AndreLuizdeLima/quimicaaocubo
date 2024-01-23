@@ -1,5 +1,3 @@
-# quimicaaocubo
+# Quimicaaocubo
 
-produção do projeto tabela.
-
-nada de mais, aqui.
+a
